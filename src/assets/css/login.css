@@ -1,0 +1,12 @@
+.logininfo .el-input__inner {background-color:#141414;border:none;text-indent: 25px;box-sizing: border-box;}
+.logininfo .el-input__inner::-webkit-input-placeholder {/* WebKit,Blink,Edge */    color:#7d7d7d;}
+.logininfo .el-input__inner:-moz-placeholder {/* Mozilla Firefox 4 to 18 */   color:#7d7d7d;}
+.logininfo .el-input__inner::-moz-placeholder {/* Mozilla Firefox 19+ */   color:#7d7d7d;}
+.logininfo .el-input__inner:-ms-input-placeholder {/* Internet Explorer 10-11 */   color:#7d7d7d;}
+.logininfo .el-form-item.is-error .el-input__inner,.logininfo .el-form-item.is-success .el-input__inner{border-color:#363636;}
+.username .el-input__inner{border-bottom:1px #363636 solid;border-radius: 0;color: #7d7d7d;background:url(../images/logininfo.png) no-repeat;background-position: 10px 11px;}
+.password .el-input__inner{background:url(../images/logininfo.png) no-repeat;background-position: 10px -27px;}
+.login .el-button{width: 240px;height: 40px;}
+
+
+.left .el-menu{border-right: none}
